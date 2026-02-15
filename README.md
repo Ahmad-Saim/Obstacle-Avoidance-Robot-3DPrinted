@@ -6,7 +6,7 @@ Designed and developed a 3D-printed Arduino-based autonomous robot featuring ult
 ---
 
 ## 🖼️ Project Image
-![Robot](https://drive.google.com/file/d/1mh2VcMyGt_ZOIplin4JrBmI_d4WT3zTK/view)
+[Robot](https://drive.google.com/file/d/1mh2VcMyGt_ZOIplin4JrBmI_d4WT3zTK/view)
 
 ---
 
