@@ -20,7 +20,8 @@ Designed and developed a 3D-printed Arduino-based autonomous robot featuring ult
 - HC-SR04 Ultrasonic Sensor
 - Servo Motor (Hand Movement)
 - L298N Motor Driver
-- 3D Printed Chassis (PLA)
+- 3D Printed Body (PLA)
+- DFPlayer Mini
 
 ---
 
